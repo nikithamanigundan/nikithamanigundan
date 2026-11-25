@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Nikitha M! 👋
 
-<!--
-**nikithamanigundan/nikithamanigundan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Information Technology Undergraduate
 
-Here are some ideas to get you started:
+🏫 Sri Krishna College of Engineering and Technology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+- 🌱 Currently learning C Programming and Computer Science fundamentals.
+- 💡 Interested in Software Development and Technology.
+- 🚀 Passionate about learning new skills and building projects.
+- 🎯 Aspiring Software Developer.
+
+## 🛠️ Technical Interests
+- C Programming
+- Python
+- Java
+- Web Development
+- Problem Solving
+
+## 🎯 My Goals
+- Strengthen my programming skills.
+- Build real-world projects.
+- Participate in hackathons and technical events.
+- Prepare for software engineering placements.
+
+## 🤝 Connect With Me
+- LinkedIn: https://www.linkedin.com/in/nikitha-m-613313427
+---
+⭐ Always Learning | Building | Growing
